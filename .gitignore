@@ -1,0 +1,4 @@
+*.swp
+*.bin
+/target
+**/*.rs.bk
